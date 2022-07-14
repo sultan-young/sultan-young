@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Hungry Panda
@@ -10,7 +8,7 @@ Here are some ideas to get you started:
 
 
 
-### TOTAL
+### GitHub Stats
 
 <div style="display: flex; justify-content: center;">
     <div>
@@ -25,25 +23,5 @@ Here are some ideas to get you started:
 
 
 
-<!--Languages & Tools-->
-**Languages and Tools:**
-
-<code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/angularjs.png"></code>
-</BR>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/firebase.png"></code>
-<code><img height="35" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
-<code><img height="30" src="https://img.icons8.com/fluent/50/000000/android-os.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"></code>
-<br/>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
-<code><img height="30" src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/django.png"></code>
-<code><img height="30" src="https://github.com/rajesh545862/rajesh545862/blob/master/flsak.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/flutter.png"></code>
+### 🔥 Streak stats
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sultan-young&theme=monokai-metallian&hide_border=true"/>
