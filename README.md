@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: center;">
     <div>
         <a href="https://github.com/sultan-young/sultan-young">
-            <img height=240 src="https://github-readme-stats.vercel.app/api?username=sultan-young&theme=radical">    
+            <img width=500 src="https://github-readme-stats.vercel.app/api?username=sultan-young&theme=radical">    
         </a>
         <a  style="flex: 1" href="https://github.com/sultan-young/sultan-young">
-            <img height=240 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultan-young&theme=radical&text_color=fff&width=100%">
+            <img width=207 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultan-young&theme=radical&text_color=fff&width=100%">
         </a>
     </div>
 </div>
